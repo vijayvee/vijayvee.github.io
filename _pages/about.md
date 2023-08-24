@@ -26,4 +26,4 @@ In the past, I have done internships at Google Brain, Facebook AI Research and Q
 Prior to starting my Ph.D., I spent a year working at Brown University with [Dr. Thomas Serre](http://serre-lab.clps.brown.edu/).
 In April 2017, I graduated with a bachelors degree in Computer Science and Engineering from [SSN College of Engineering](http://www.ssn.edu.in/?page_id=124), Chennai, India.
 
-### I'm on the industry job market for Research Scientist / Research Engineer roles starting from Jan 2024!!
+#### I'm on the industry job market for Research Scientist / Research Engineer roles starting from Jan 2024!!
