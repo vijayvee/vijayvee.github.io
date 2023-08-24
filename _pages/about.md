@@ -1,26 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD'ing at <a href="#">UC San Diego</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>4067 Miramar Street</p>
+    <p>La Jolla, CA 92092</p>
+  
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a 5th year Ph.D. student advised by [Dr. Virginia de Sa](http://www.cogsci.ucsd.edu/~desa/) at the [UCSD Cognitive Science](http://cogsci.ucsd.edu) department. **I'm on the industry job market for Research Scientist / Research Engineer roles starting from Jan 2024!!**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently active projects: (1) Developing adaptive deep networks with dynamic architectures to process static images. (2) Egocentric video-language pretraining using multimodal LLMs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In the past, I have done internships at Google Brain, Facebook AI Research and Qualcomm AI Research working on adversarial images, (designing, conducting and analyzing) human perceptual experiments, self-supervised representation and unsupervised video representation learning.
+
+Prior to starting my Ph.D., I spent a year working at Brown University with [Dr. Thomas Serre](http://serre-lab.clps.brown.edu/).
+In April 2017, I graduated with a bachelors degree in Computer Science and Engineering from [SSN College of Engineering](http://www.ssn.edu.in/?page_id=124), Chennai, India.
+
+**Contact me at** [vveeraba@ucsd.edu](mailto:vveeraba@ucsd.edu).
+<!-- {% twitter https://twitter.com/simple_cell_/timelines/539487832448843776 limit=5 widget_type=grid maxwidth=500 %} -->

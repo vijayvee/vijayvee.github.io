@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-10-22
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Kavli Symposium Inspired Proposal award (2019) for my thesis project on research at the intersection of AI and Neuroscience.

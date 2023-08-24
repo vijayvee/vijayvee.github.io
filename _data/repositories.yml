@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vijayvee
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - vijayvee/video-captioning
+  - vijayvee/pytorch-boundaries
+  - vijayvee/behavior_recognition

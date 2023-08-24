@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-06-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Short paper on learned adversarial video compression accepted at the Learned Image Compression (CLIC) workshop at CVPR 2020.
