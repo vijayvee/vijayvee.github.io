@@ -8,9 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>4067 Miramar Street</p>
-    <p>La Jolla, CA 92092</p>
+  address:
   
 
 news: true  # includes a list of news items
