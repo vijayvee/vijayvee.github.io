@@ -1034,3 +1034,15 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+/* CSS Styles to arrange Twitter and Calendly side by side */
+.social-widgets-container {
+  display: flex; /* Use flexbox to arrange them horizontally */
+  justify-content: space-between; /* Add space between them */
+}
+
+.twitter-widget,
+.calendly-widget {
+  flex: 1; /* Each widget takes up an equal portion of the space */
+  margin-right: 10px; /* Add some space between them */
+}
