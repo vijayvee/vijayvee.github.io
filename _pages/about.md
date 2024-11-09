@@ -17,13 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a 5th year Ph.D. student advised by [Dr. Virginia de Sa](http://www.cogsci.ucsd.edu/~desa/) at the [UCSD Cognitive Science](http://cogsci.ucsd.edu) department. 
+Hello! I am a Research Scientist at Reality Labs Research @ Meta. Previously, I was a Ph.D. student advised by [Dr. Virginia de Sa](http://www.cogsci.ucsd.edu/~desa/) at the [UCSD Cognitive Science](http://cogsci.ucsd.edu) department where I worked on computer vision and human vision. My main contributions from my PhD research are (1) a bio-inspired adaptive RNN architecture that learned to dynamically scale its computation with input task-difficulty (see [NeurIPS23](https://proceedings.neurips.cc/paper_files/paper/2023/file/3a40e042c66e84659249f3254460c123-Paper-Conference.pdf)), and (2) studying human vision's sensitivity to adversarial image perturbations (see [NatComm23](https://www.nature.com/articles/s41467-023-40499-0)).
 
-Currently active projects: (1) Developing adaptive deep networks with dynamic architectures to process static images. (2) Egocentric video-language pretraining using multimodal LLMs.
-
-In the past, I have done internships at Google Brain, Facebook AI Research and Qualcomm AI Research working on adversarial images, (designing, conducting and analyzing) human perceptual experiments, self-supervised representation and unsupervised video representation learning.
-
-Prior to starting my Ph.D., I spent a year working at Brown University with [Dr. Thomas Serre](http://serre-lab.clps.brown.edu/).
-In April 2017, I graduated with a bachelors degree in Computer Science and Engineering from [SSN College of Engineering](http://www.ssn.edu.in/?page_id=124), Chennai, India.
-
-#### I'm on the industry job market for Research Scientist / Research Engineer roles starting from Jan 2024!!
+During my PhD, I did internships at Google Brain, Facebook AI Research and Qualcomm AI Research working on adversarial images, human visual perception, self-supervised learning and unsupervised video representation learning.
